@@ -10,8 +10,7 @@ So remember: everything always starts with a **route** between an *address* we w
 
 In order to support a URL in your app such as `https://your-codespace-workspace.dev/home`, there are a lot of dots to connect!
 
-<!-- ![](/assets/rcav-flowchart/rcav-chart.png) -->
-![](https://res.cloudinary.com/dmxgp9oq2/image/upload/v1689818165/rcav-chart_holgwv.png)
+![](/assets/rcav-flowchart-image.png)
 {: .bleed-full }
 
  1. A user visits an address in our app; in this case, we chose `/home`.
