@@ -47,7 +47,7 @@ In order to support a URL in your app such as `https://your-codespace-workspace.
 4. Once we've computed the final values that should be displayed to the user, we tell Rails the name of an **HTML view template** to use to format the output. To do so, we use the `render()` method. The complete `render()` method looks like this:
     
     ```ruby
-    render({ :template => "page_templates/home" })
+    render({ :template => "pages_templates/home" })
     ```
 
     Here's what's going on:
